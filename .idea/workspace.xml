@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44ac66c9-803f-40a3-aa6f-7e01dcac13f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/phone/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/phone/Phone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +33,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="phone.Main" />
       <module name="Lesson8" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665748189851</updated>
-      <workItem from="1665748191581" duration="6863000" />
+      <workItem from="1665748191581" duration="7242000" />
     </task>
     <servers />
   </component>

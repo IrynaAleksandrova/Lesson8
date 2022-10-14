@@ -1,3 +1,5 @@
+package phone;
+
 public class Phone {
     private int number;
     private String model;
