@@ -14,9 +14,9 @@ public class Main {
 //    сообщение. Метод выводит на консоль номера этих телефонов.
     public static void main(String[] args) {
 
-        Phone iphone = new Phone(44123456, "IPhone", 15.74);
-        Phone xiaomi = new Phone(28456789, "Xiaomi", 17.23);
-        Phone vivo = new Phone(85789123, "Vivo", 17.81);
+        Phone iphone = new Phone("+44-123-456", "IPhone", 15.74);
+        Phone xiaomi = new Phone("+28-456-789", "Xiaomi", 17.23);
+        Phone vivo = new Phone("+85-789-123", "Vivo", 17.81);
 
         System.out.println(iphone);
         System.out.println(xiaomi);

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44ac66c9-803f-40a3-aa6f-7e01dcac13f2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/phone/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/phone/Phone.java" afterDir="false" />
+    <list default="true" id="44ac66c9-803f-40a3-aa6f-7e01dcac13f2" name="Changes" comment="commit first">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/phone/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/phone/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/phone/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/phone/Phone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/TeachMeSkills/Projects/Less",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
@@ -59,11 +61,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665748189851</updated>
-      <workItem from="1665748191581" duration="7242000" />
+      <workItem from="1665748191581" duration="7573000" />
+      <workItem from="1665758031020" duration="1144000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit first" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit first" />
   </component>
 </project>
